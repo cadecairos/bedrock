@@ -104,7 +104,7 @@
     }
 
     input[type="text"] {
-        border-radius: 100px;
+        border-radius: 2px;
         margin-bottom: 1.25em;
         padding: .9em 40px;
         width: 100%;
@@ -125,7 +125,7 @@
         @include font-size-level6;
         @include open-sans;
         background: none transparent;
-        border-radius: 100px;
+        border-radius: 2px;
         border: 2px solid $color-button-light;
         color: $color-button-light;
         display: inline-block;
